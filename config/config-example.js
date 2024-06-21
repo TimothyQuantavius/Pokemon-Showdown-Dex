@@ -1,5 +1,5 @@
 exports.routes = {
-    root: 'dex.pokemonshowdown.com',
-    client: 'dex.pokemonshowdown.com',
+    root: 'dex.forestgreen.com',
+    client: 'dex.forestgreen.com',
     replays: 'replay.pokemonshowdown.com',
 };
